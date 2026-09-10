@@ -56,12 +56,12 @@ analyzer that reports triggers, outbound endpoints and error-handling coverage.
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Apify](https://img.shields.io/badge/Apify-FF9013?style=flat-square&logo=apify&logoColor=white)
+![Apify](https://img.shields.io/badge/Apify-FF9013?style=flat-square)
 
 **AI & retrieval**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini%20Embeddings-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
