@@ -9,12 +9,9 @@
   <a href="mailto:eng.mohamedy100@gmail.com">
     <img src="https://img.shields.io/badge/Email-eng.mohamedy100%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <!-- LinkedIn: replace YOUR-HANDLE below with your profile handle, then delete this comment
-       and the surrounding arrows so the badge renders.
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/mohamedyoussef111a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="LinkedIn">
   </a>
-  -->
   <img src="https://img.shields.io/badge/Egypt-000000?style=flat-square&logo=googlemaps&logoColor=white" alt="Egypt">
   <img src="https://img.shields.io/badge/Open%20to%20opportunities-2EA043?style=flat-square" alt="Open to opportunities">
 </p>
@@ -90,5 +87,6 @@ scheduling.
 
 I'm open to opportunities in automation and AI engineering.
 
+- **LinkedIn** — [linkedin.com/in/mohamedyoussef111a](https://www.linkedin.com/in/mohamedyoussef111a/)
 - **Email** — [eng.mohamedy100@gmail.com](mailto:eng.mohamedy100@gmail.com)
 - **Code** — [github.com/engmohamedy100-byte](https://github.com/engmohamedy100-byte?tab=repositories)
